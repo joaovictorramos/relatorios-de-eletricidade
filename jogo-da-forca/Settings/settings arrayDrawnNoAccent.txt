@@ -1,1 +1,0 @@
-OBSERVAÇÃO: Os acentos contavam como mais de uma letra, por isso, teve que ser retirado através da variável arrayDrawnNoAccent
